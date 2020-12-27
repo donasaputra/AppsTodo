@@ -14,16 +14,16 @@
 
 # Screen shot API Test Insomnia
 
-![Screen_Shot_Insomnia](/uploads/aac3073566fe7cfd349da0138457d449/Screen_Shot_Insomnia.png)
+![Screen_Shot_Insomnia](/uploads/230f63984cdd90c2fdca4fedb468e3c0/Screen_Shot_Insomnia.png)
 
 # Gif API Test Insomnia
 
-![gif_API](/uploads/4a311b47a5fa6241abeab44e914e71eb/gif_API.gif)
+![gif_API](/uploads/8f860235739b7597e3404cb29af42c31/gif_API.gif)
 
 # Gif Todo(s) with MongodB
 
-![gif__with_mongodb](/uploads/87fdfba3a484242e31df16fd721d66a3/gif__with_mongodb.gif)
+![gif__with_mongodb](/uploads/b2967fe3a1433ef49b6519cb606d1989/gif__with_mongodb.gif)
 
 # Gif Running MySQL Database in Localhost & Ngrok
 
-![gif_run_localhost___ngrok_database_mysql](/uploads/f54f10988b39c323d4ebf85036c027f4/gif_run_localhost___ngrok_database_mysql.gif)
+![gif_run_localhost___ngrok_database_mysql](/uploads/928af61f7ff517febd1c19166ba98c9b/gif_run_localhost___ngrok_database_mysql.gif)
