@@ -14,16 +14,16 @@
 
 # Screen shot API Test Insomnia
 
-![Screen_Shot_Insomnia](/uploads/b2268ea0803d699ae306f7bc0a0ebdd4/Screen_Shot_Insomnia.png)
+<img width="1175" alt="Screen Shot Insomnia" src="https://user-images.githubusercontent.com/67237903/103283650-bbc0c300-4a0b-11eb-984b-3daacd6c88d9.png">
 
 # Gif API Test Insomnia
 
-![gif_API](/uploads/ee41ee2c87febb499e452d3562025a41/gif_API.gif)
+![gif API](https://user-images.githubusercontent.com/67237903/103283693-da26be80-4a0b-11eb-8277-ede8d57fd4b0.gif)
 
 # Gif Todo(s) with MongodB
 
-![gif__with_mongodb](/uploads/0a6afedbd760e9d1be1403427064dda7/gif__with_mongodb.gif)
+![gif  with mongodb](https://user-images.githubusercontent.com/67237903/103283897-59b48d80-4a0c-11eb-84dc-2ed9420cde37.gif)
 
 # Gif Running MySQL Database in Localhost & Ngrok
 
-![gif_run_localhost___ngrok_database_mysql](/uploads/594e853aadce45f8aabdb72785bd6294/gif_run_localhost___ngrok_database_mysql.gif)
+![gif run localhost   ngrok database mysql](https://user-images.githubusercontent.com/67237903/103284058-ca5baa00-4a0c-11eb-950e-93cb3c7b8bba.gif)
